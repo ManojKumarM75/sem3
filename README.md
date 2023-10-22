@@ -1,3 +1,4 @@
+# 2023.10.22 Copying Sem3 to  new loc
 # 2023.05.08
 # MTechStudyGroup 
 Web page at https://ManojKumarM75.github.io/MTechStudyGroupBlog/
